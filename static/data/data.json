@@ -1,0 +1,372 @@
+{
+  "cloud": {
+    "title": "词云Demo",
+    "wordContent": [
+      { "name": "人工智能", "value": 40 },
+      { "name": "机器学习", "value": 35 },
+      { "name": "大数据", "value": 35 },
+      { "name": "计算机网络", "value": 30 },
+      { "name": "操作系统", "value": 30 },
+      { "name": "数据结构", "value": 30 },
+      { "name": "C语言", "value": 30 },
+      { "name": "java编程", "value": 30 },
+      { "name": "知识工程", "value": 30 },
+      { "name": "复杂网络", "value": 30 },
+      { "name": "微积分", "value": 30 },
+      { "name": "高性能计算", "value": 30 },
+      { "name": "知识图谱", "value": 30 },
+      { "name": "LDA算法", "value": 30 },
+	  { "name": "高级程序设计", "value": 30 },
+      { "name": "设计模式", "value": 30 },
+      { "name": "数据挖掘", "value": 30 },
+      { "name": "数据库", "value": 30 },
+      { "name": "监督学习", "value": 20 },
+      { "name": "无监督", "value": 20 },
+      { "name": "自动学习", "value": 16 },
+      { "name": "推理", "value": 16 },
+      { "name": "CRF++", "value": 16 },
+      { "name": "SVM", "value": 16 },
+      { "name": "信息安全", "value": 16 },
+      { "name": "学术研究", "value": 16 },
+      { "name": "数学", "value": 16 },
+      { "name": "英语", "value": 16 },
+      { "name": "研究生英语", "value": 16 },
+      { "name": "算法优化", "value": 12 },
+      { "name": "情感分析", "value": 12 },
+      { "name": "逻辑回归", "value": 12 },
+      { "name": "线性递归", "value": 12 },
+	  { "name": "快速排序算法","value":10},
+	  { "name": "堆排序算法","value":10},
+	  { "name": "归并排序","value":9}
+    ]
+  },
+    "TimeThing": {
+    "TimeThing": ["打游戏", "刷微博朋友圈", "看剧", "运动", "听歌", "看小说","学习","旅游"],
+    "TimeThingData": ["6","16","12","10","8","12","7","13"]
+  },
+    "mapInfo":[
+	 {
+		"point1":104.707758,
+		"point2":31.542548,
+		"address":"地址：四川省绵阳市西南科技大学-新区图书馆"
+	  },
+	  {
+		"point1":104.711163,
+		"point2":31.539669,
+		"address":"地址：四川省绵阳市西南科技大学-计算机科学与技术学院 "
+	  },
+	  {
+		"point1":104.74385,
+		"point2":31.467067,
+		"address":"地址：四川省绵阳市西南科技大学-科技园"
+	  },
+	   {
+		"point1":104.710488,
+		"point2":31.543901,
+		"address":"地址：四川省绵阳市西南科技大学-龙三体育场"
+	  },
+	   {
+		"point1":104.695845,
+		"point2":31.537261,
+		"address":"地址：四川省绵阳市西南科技大学-友谊楼"
+	  },
+	   {
+		"point1":104.695087,
+		"point2":31.541645,
+		"address":"地址：四川省绵阳市西南科技大学-网球场"
+	  }
+	],
+		
+		
+  "ratings": [
+    {
+      "username": "3******c",
+      "rateTime": 1469281964000,
+      "deliveryTime": 30,
+      "score": 5,
+      "rateType": 0,
+      "text": "不错,粥很好喝,我经常吃这一家,非常赞,以后也会常来吃,强烈推荐.",
+      "recommend": [
+        "南瓜粥",
+        "皮蛋瘦肉粥",
+        "扁豆焖面",
+        "娃娃菜炖豆腐",
+        "牛肉馅饼"
+      ]
+    },
+    {
+      "username": "2******3",
+      "rateTime": 1469271264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "deliveryTime": "",
+      "text": "服务态度不错",
+      "recommend": [
+        "扁豆焖面"
+      ]
+    },
+    {
+      "username": "3******b",
+      "rateTime": 1469261964000,
+      "score": 3,
+      "rateType": 1,
+      "text": "算法",
+      "recommend": [
+        "南瓜粥",
+        "皮蛋瘦肉粥",
+        "扁豆焖面",
+        "娃娃菜炖豆腐",
+        "牛肉馅饼"
+      ]
+    },
+    {
+      "username": "1******c",
+      "rateTime": 1469261864000,
+      "deliveryTime": 20,
+      "score": 5,
+      "rateType": 0,
+      "text": "良心店铺",
+       "recommend": [       
+        "娃娃菜炖豆腐",
+        "牛肉馅饼"
+      ]
+    },
+    {
+      "username": "3******8",
+      "rateTime": 1469211964000,
+      "deliveryTime": "",
+      "score": 3,
+      "rateType": 1,
+      "text": "可以",
+      "recommend": ["扁豆焖面"]
+    },
+    {
+      "username": "a******a",
+      "rateTime": 1469201964000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "孩子喜欢吃这家",
+      "recommend": ["南瓜粥"]
+    },
+    {
+      "username": "3******3",
+      "rateTime": 1469191264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "text": "粥挺好吃的",
+       "recommend": ["南瓜粥"]
+    }
+  ],
+	 
+	"detailInfo": [
+    {
+      "headername": "html5专题",
+	  "type":1,
+      "rateTime": 1469281964000,
+      "text": "HTML5 是 HTML 下一个的主要修订版本，现在仍处于发展阶段。广义论及 HTML5 时，实际指的是包括 HTML、CSS 和 JavaScript 在内的一套技术组合。",
+      "list": [
+	  {
+		"id":1,
+	   "title":"vue为什么这么多写法？有必要吗？",
+	   "author":"KingMario",
+	   "viewUser":27,
+		"answer":2,
+	    "answerInfo":[{"answerInfo":"Vue 的发展过程决定的，使用 render 函数的写法可以带来更大的灵活性","author":"KingMario"},{"answerInfo":"第一种是基于已知当前实例下的 components，直接设置。第二种具有可编程性和动态性，即render 函数可以实现的更强大的自定义渲染，不必受限于 Vue 模版的 DSL，可以完全的使用 javascript 的编程能力。","author":"JustGo"}],
+		"note":["html5","javascript"],
+		"info":"这两种App的写法有什么区别吗？为什么要这样搞两种？<p>components:{App:app}和render渲染的render:h=>h(app)有什么不一样?"
+	     
+	  },
+       {
+	   "id":2,
+	     "title":"使用rem布局的问题",
+	   "author":"我是很菜的小白",
+	   "viewUser":24,
+	    "answer":1,
+		"answerInfo":[{"answerInfo":"Vue 的发展过程决定的，使用 render 函数的写法可以带来更大的灵活性","author":"KingMario"}],
+		"note":["html5","javascript","css"],
+		"info":"是这样的，看到网上有说可以动态定义根元素的font-size，我使用了document.documentElement.clientWidth/10来定义的，设计稿的宽度是750，按理来说在iphone6上的font-size要为75的，可是，我的却是37.5，然后就很迷茫了."
+	   },
+	    {
+	   "id":3,
+	   "title":"使用float布局的问题",
+	   "author":"菜小白",
+	   "viewUser":26,
+	    "answer":0,
+		"note":["html5","javascript","css"]
+	   }
+      ]
+    },
+    {
+      "headername": "css专题",
+	  "type":2,
+      "rateTime": 1469271264000,
+      "deliveryTime": "",
+      "score": 4,
+      "rateType": 0,
+      "deliveryTime": "",
+      "text": "服务态度不错",
+      "recommend": [
+        "扁豆焖面"
+      ]
+    },
+    {
+      "headername": "javascript专题",
+	  "type":3,
+      "rateTime": 1469261964000,
+      "score": 3,
+      "rateType": 1,
+      "text": "算法",
+      "recommend": [
+        "南瓜粥",
+        "皮蛋瘦肉粥",
+        "扁豆焖面",
+        "娃娃菜炖豆腐",
+        "牛肉馅饼"
+      ]
+    },
+    {
+      "headername": "1******c",
+      "rateTime": 1469261864000,
+      "deliveryTime": 20,
+      "score": 5,
+      "rateType": 0,
+      "text": "良心店铺",
+       "recommend": [       
+        "娃娃菜炖豆腐",
+        "牛肉馅饼"
+      ]
+    },
+    {
+      "headername": "2******d",
+      "rateTime": 1469251264000,
+      "deliveryTime": 10,
+      "score": 4,
+      "rateType": 0,
+      "text": "第三方",
+      "recommend": ["娃娃菜炖豆腐"]
+    },
+    {
+      "headername": "9******0",
+      "rateTime": 1469241964000,
+      "deliveryTime": 70,
+      "score": 1,
+      "rateType": 1,
+      "text": "送货速度蜗牛一样",
+      "recommend": ["娃娃菜炖豆腐"]
+    }
+  ],
+	  
+	"articles":[
+     { "series": "html5专题",
+       "type": 1,
+      "seriesInfo": [
+        {
+		"title":"vue为什么这么多写法？有必要吗？",
+		"id":1,
+		"time":"2017-3-1",
+		"author":"kven",
+		"artileInfo":"这两种App的写法有什么区别吗？为什么要这样搞两种？"
+		},
+		{
+		"title":"使用rem布局的问题",
+		"id":2,
+		"time":"2017-1-11",
+		"author":"kven",
+		"artileInfo":"定义和用法<audio> 标签定义音频资源，比如音乐和声音资源。提示：可以在开始标签和结束标签之间放置文本内容，这样老的浏览器就可以显示出不支持该标签的信息。"
+		},
+		{
+		"title":"html5之autio和video",
+		"id":3,
+		"time":"2017-2-18",
+		"author":"Porter",
+		"artileInfo":"定义和用法<canvas> 标签定义图形，比如图表和其他图像。<canvas> 标签只是图形容器，您必须使用脚本来绘制图形。定义和用法<video> 标签定义视频，比如电影片段或其他视频流。提示和注释  提示：可以在开始标签和结束标签之间放置文本内容，这样老的浏览器就可以显示出不支持该标签的信息。"
+		}
+		]
+	},
+     {
+	 "series": "css3专题",
+       "type": 2,
+      "seriesInfo": [
+        {
+		"title":"css3之两栏布局",
+		"id":4,
+		"time":"2017-3-11",
+		"author":"Tom",
+		"artileInfo":"定义和用法<canvas> 标签定义图形，比如图表和其他图像。<canvas> 标签只是图形容器，您必须使用脚本来绘制图形。"
+		},
+		{
+		"title":"css3之圆角",
+		"id":5,
+		"time":"2017-2-11",
+		"author":"LiLi",
+		"artileInfo":"定义和用法<audio> 标签定义音频资源，比如音乐和声音资源。提示：可以在开始标签和结束标签之间放置文本内容，这样老的浏览器就可以显示出不支持该标签的信息。"
+		},
+		{
+		"title":"css3之渐变颜色",
+		"id":6,
+		"time":"2017-2-18",
+		"author":"Carlo",
+		"artileInfo":"定义和用法<video> 标签定义视频，比如电影片段或其他视频流。提示和注释  提示：可以在开始标签和结束标签之间放置文本内容，这样老的浏览器就可以显示出不支持该标签的信息。"
+		}
+		]
+	 },
+	{
+	 "series": "javascript专题",
+       "type": 3,
+      "seriesInfo": [
+        {
+		"title":"javascript封装ajax",
+		"id":7,
+		"time":"2017-3-11",
+		"author":"Tom",
+		"artileInfo":"定义和用法<canvas> 标签定义图形，比如图表和其他图像。<canvas> 标签只是图形容器，您必须使用脚本来绘制图形。"
+		},
+		{
+		"title":"javascript兼容性",
+		"id":8,
+		"time":"2017-2-11",
+		"author":"LiLi",
+		"artileInfo":"定义和用法<audio> 标签定义音频资源，比如音乐和声音资源。提示：可以在开始标签和结束标签之间放置文本内容，这样老的浏览器就可以显示出不支持该标签的信息。"
+		},
+		{
+		"title":"JS实现继承的几种方式",
+		"id":9,
+		"time":"2017-2-18",
+		"author":"Carlo",
+		"artileInfo":"JS作为面向对象的弱类型语言，继承也是其非常强大的特性之一。那么如何在JS中实现继承呢？让我们拭目以待。"
+		}
+		]
+	 },
+	 {
+	 "series": "ES6专题",
+       "type":4,
+      "seriesInfo": [
+        {
+		"title":"ES6新特性（上）",
+		"id":10,
+		"time":"2017-3-11",
+		"author":"Tom",
+		"artileInfo":"讲解了es6最常用的一些语法: let, const, class, extends, super, arrow functions, template string, destructuring, default, rest arguments"
+		},
+		{
+		"title":"ES6新特性（下）",
+		"id":11,
+		"time":"2017-2-11",
+		"author":"LiLi",
+		"artileInfo":"ES6新特性:import export,这两个家伙对应的就是es6自己的module功能."
+		},
+		{
+		"title":"ES6新特性之模块化编程",
+		"id":12,
+		"time":"2017-2-18",
+		"author":"Carlo",
+		"artileInfo":"定义和用法<video> 标签定义视频，比如电影片段或其他视频流。提示和注释  提示：可以在开始标签和结束标签之间放置文本内容，这样老的浏览器就可以显示出不支持该标签的信息。"
+		}
+		]
+	 }
+   ]
+	  
+}
