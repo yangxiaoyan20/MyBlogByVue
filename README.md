@@ -1,4 +1,4 @@
-# vue-test
+# MyBlogVue
 
 > \
 
@@ -6,9 +6,9 @@
 
 # clone project
 
-git clone https://github.com/yxy/vue-test.git
+git clone https://github.com/yangxiaoyan20/MyBlogVue.git
 # 
-cd vue-test
+cd MyBlogVue
 
 ``` bash
 # install dependencies
@@ -19,6 +19,8 @@ npm run dev
 
 # build for production with minification
 npm run build
-```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+```在线演示地址：http://www.yangxiaoyan20.cn/
+   本地运行：使用命令行  npm run dev,在浏览器中输入地址运行：http://localhost:8088
